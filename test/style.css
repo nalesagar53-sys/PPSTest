@@ -1,0 +1,186 @@
+.pfp{
+    height:100px;
+    width:120px;
+    border-radius:50%;
+}
+
+.navbar{
+    background-color: #c6a6a6;
+    height: 100px;
+}
+
+.nav-links{
+    text-decoration: none;
+    display: flex;
+    gap: 60px;
+    margin-top: -70px;
+    margin-left: 300px;
+    text-transform: uppercase;
+    font-size:30px;
+    list-style-type: none;
+}
+
+.nav-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color:yellow
+}
+
+.contact-btn{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    border:none;
+    padding: 10px 20px;
+    margin-top: -10px;
+    margin-left: 30px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
+
+.contact-btn:hover{
+    background-color: rgb(161, 199, 127);
+    color: black;
+}
+
+/* Home Page*/
+
+.section-home{
+    height:auto;
+    background-color: rgba(174, 220, 74, 0.604);
+}
+
+.home-h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    color:chocolate;
+}
+
+.home-h2{
+    font-size: 50px;
+    color: black;
+    margin-left:50px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+
+
+.contact-btn-1{
+    background-color: blue;
+    color: white;
+    border-radius: 30px;
+    border:none;
+    padding: 10px 20px;
+    margin-left: -80%;
+    margin-top: -200px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
+
+.home-image{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    margin-left: 900px;
+    margin-top: -250px;
+}
+
+.home-p{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.about {
+    background: #0aee56;
+}
+
+.section-title{
+    font-size: 50px;
+    margin-left: 45px;
+
+}
+
+
+.about-image {
+    height: 250px;
+    width: 240px;
+    margin-left: 500px;
+    border-radius: 500px;
+
+    text-align: center;
+}
+
+
+.about-h3{
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.about-p{
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 50px;
+
+}
+
+.section-certifications{
+    height: auto;
+    background: #0accee;
+}
+
+.title{
+    font-size: 45px;
+    margin-left: 40px;
+    color: rgb(22, 22, 21);
+}
+
+.cer-image1{
+    margin-left: 270px;
+    height: 250px;
+  
+}
+.info-p{
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+.cer-image2{
+    height: 250px;
+    margin-left: 270px;
+
+}
+
+.info-p1{
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+
+.contact-btn-2{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: -10px;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+
+}
+
+.contact-btn-2:hover
+{
+    background-color: rgb(110, 216, 18);
+    color: rgb(12, 12, 12);
+}
+
+
