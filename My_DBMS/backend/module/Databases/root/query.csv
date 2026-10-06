@@ -1,5 +1,0 @@
-id, query_syntax             , query                                     , example
- 1, make <database> <dbname> , make db <dbname>                          , make db company
- 2, del <database> <dbname>  , del db <dbname>                           , del db company
- 3, make <table> <table_name>, make table <table_name>[col1.col2....coln], make table company[col1.col2....coln]
- 4, del <table> <table_name> , make table <table_name>                   , make table emp
